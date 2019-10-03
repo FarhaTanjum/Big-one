@@ -1,0 +1,65 @@
+*{
+}
+h2{
+
+text-align: center;
+}
+.header{
+	height: 80px;
+	background-color: #6a6ae6;
+	border: solid;
+}
+.path{
+	height:100px;
+	background-color: pink;
+	border: solid;
+}
+.docktop{
+	height: 80px;
+	background-color: yellow;
+	border: solid;
+}
+.wrapper{
+
+	overflow: hidden;
+
+}
+.dockleft{
+	height:400px;
+	width: 29.22%;
+	background-color:red;
+	float:left;
+	border: solid;
+}
+.wrapper-two{
+	width:40%;
+	float:left;
+
+}
+.error{
+	height: 100px;
+	background-color: indigo;
+	border: solid;
+}
+.content{
+	height: 294px;
+	background-color: gray;
+	border: solid;
+}
+.dockright{
+	height: 400px;
+	width: 30%;
+	background-color: green;
+	float:right;
+	border: solid;
+}
+.dockbottom{
+	border: solid;
+	height:80px;
+	background-color: aqua;
+}
+footer{
+	height: 80px;
+	background-color: #a0bb6c;
+	border: solid;
+}
